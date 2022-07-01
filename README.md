@@ -8,9 +8,11 @@ Dos)<br>
 https://www.typescriptlang.org/
 https://www.typescriptlang.org/play?#code/Q
 
+[●]()<br>
 
 | Chapter | 이슈 | 내용  |설명|
 |:------:|:---------:|:------:|:------:|
-| 1 | [#1](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/1)|JS의 단점 및 오류 예시|[● JS 단점](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/1#issue-1285195325)<br>[● JS의 오류 예시(데이터 타입 오류, argument 타입 오류, property 오류)]()||
-[2.0]()|#2|JS의 단점 및 개발자의 실수를 보완하는 typescript|테스트3|
+| 1 | [#1](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/1)|JS의 단점 및 오류 예시|[● JS 단점](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/1#issue-1285195325)<br>[● JS의 오류 예시(데이터 타입 오류, property 오류, argument 타입 오류)]()||
+[2.0](https://nomadcoders.co/typescript-for-beginners/lectures/3668)|[#2](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/2)|JS의 단점 및 개발자의 실수를 보완하는 typescript|[● TypeScript](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/2#issue-1290870513)<br>[● 데이터 타입 오류](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/2#issuecomment-1171903601)<br>[● property 오류](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/2#issuecomment-1171908186)<br>[● argument 타입 오류](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/2#issuecomment-1171904740)<br>[● required argument 오류](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/2#issuecomment-1171905391)<br>|
 ||테스트2|테스트3|
+
