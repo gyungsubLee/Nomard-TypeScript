@@ -10,6 +10,9 @@ https://www.typescriptlang.org/play?#code/Q
 
 [●]()<br>
 
+<br/>
+
+## ✍️ 강의 정리
 | Chapter | Issue | 주제  |내용|
 |:------:|:---------:|:------:|:------:|
 | 1 | [#1](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/1)|JS의 단점 및 오류 예시|[● JS 단점](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/1#issue-1285195325)<br>[● JS의 오류 예시<br>(데이터 타입 오류, property 오류, argument 타입 오류)](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/1#issuecomment-1166813476)||
@@ -24,3 +27,7 @@ https://www.typescriptlang.org/play?#code/Q
 |[]()|[]()| 주제 | 내용 |
 
 
+## ✍️ JS 문법 정리
+| JS | Issue | 주제  |내용|
+|:------:|:---------:|:------:|:------:|
+||[#9](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/9)|Class|[● 클래스(Class), 객체(Object), 인스턴스(instance)](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/9#issue-1299829073)<br>[● Class](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/9#issuecomment-1179656822)<br>[●  Class body, 메서드 ](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/9#issuecomment-1179658342)<br>[●  Constructor](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/9#issuecomment-1179662231)<br>[● 정적(static) 메서드와 속성](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/9#issuecomment-1179662349)<br>[● 정적 메소드 vs 프로토타입 메소드](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/9#issuecomment-1179662371)<br>[● 프로토타입 및 정적 메서드를 사용한 this 바인딩](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/9#issuecomment-1179662511)<br>[● 인스턴스 속성](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/9#issuecomment-1179676725)<br>[● Field 선언](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/9#issuecomment-1179676971)<br>[● extends를 통한 클래스 상속(sub classing)](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/9#issuecomment-1179677228)<br>[● super 를 통한 상위 클래스 호출](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/9#issuecomment-1179677371)<br>[● 클래스 재정의](https://github.com/gyungsubLee/Nomard-TypeScript_BlockChain/issues/9#issuecomment-1179677619)|
