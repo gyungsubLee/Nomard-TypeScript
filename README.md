@@ -120,3 +120,9 @@ https://namu.wiki/w/객체%20지향%20프로그래밍<br>
 http://www.incodom.kr/객체_지향#h_416ffa875e53dbc7f45f00610f8881a5<br>
 https://loadofprogrammer.tistory.com/144?category=661932<br>
 https://namu.wiki/w/%EA%B0%9D%EC%B2%B4%20%EC%A7%80%ED%96%A5%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/%EC%9B%90%EC%B9%99
+
+<br>
+
+>### 🤔 추가 정리)
+>객체지향 특징 - 동적바인딩 : 아직 잘 이해가 안됨, 이해 시 추가 정리<br>
+>객체지향 5원칙 - 이것도 이해가 잘 안됨. 추가 자료를 더 찾아보고 이해 시 정리
